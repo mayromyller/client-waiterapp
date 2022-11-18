@@ -32,7 +32,7 @@ To run the app make sure you have the following tools: [Git](https://git-scm.com
 Clone this repository
 
 ```
-git clone <repository link>
+git clone git@github.com:mayromyller/client-waiterapp-.git
 ```
 
 install the dependencies
